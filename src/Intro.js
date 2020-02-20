@@ -13,7 +13,8 @@ class Intro extends Component {
     this.mozdzierze.play();
     return (
       <div className="intro">
-        <h1>Peon Soundboard by NordVinterSkog</h1>
+        <h1>Peon Soundboard</h1>
+        <h2>by NordVinterSkog</h2>
       </div>
     );
   }

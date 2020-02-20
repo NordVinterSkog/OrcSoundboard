@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import orc from "./background.jpg";
 import Intro from "./Intro";
 import "./App.css";
 import UIfx from "uifx";
@@ -84,67 +85,70 @@ class App extends Component {
     }
   };
 
+  orc = orc;
   render() {
     setTimeout(() => {
       this.setState({
         loaded: true
       });
     }, 6000);
+
     return this.state.loaded ? (
       <div className="app">
-        <img src="horde.png" alt="" />
+        <img src={this.orc} alt="" />
         <div className="buttons">
           {" "}
           <button onClick={this.orcPlay} id="dobra">
-            Dobra!
+            <span>[ </span>Dobra!
+            <span> [</span>
           </button>
           <button onClick={this.orcPlay} id="bracich">
-            Brać ich!
+            <span>[ </span> Brać ich!<span> [</span>
           </button>
           <button onClick={this.orcPlay} id="chetnie">
-            Chętnie!
+            <span>[ </span> Chętnie!<span> [</span>
           </button>
           <button onClick={this.orcPlay} id="co">
-            Co?
+            <span>[ </span> Co?<span> [</span>
           </button>
           <button onClick={this.orcPlay} id="costrzazrobic">
-            Coś trza zrobić?
+            <span>[ </span> Coś trza zrobić?<span> [</span>
           </button>
           <button onClick={this.orcPlay} id="czegotychciec">
-            Czego ty chcieć?
+            <span>[ </span> Czego ty chcieć?<span> [</span>
           </button>
           <button onClick={this.orcPlay} id="czemunie">
-            Czemu nie?
+            <span>[ </span> Czemu nie?<span> [</span>
           </button>
           <button onClick={this.orcPlay} id="dobradobra">
-            Dobra, dobra.
+            <span>[ </span> Dobra, dobra.<span> [</span>
           </button>
           <button onClick={this.orcPlay} id="gotow">
-            Gotów do pracy.
+            <span>[ </span> Gotów do pracy.<span> [</span>
           </button>
           <button onClick={this.orcPlay} id="janiebyctakiork">
-            Ja nie być taki ork!
+            <span>[ </span> Ja nie być taki ork! <span> [</span>
           </button>
           <button onClick={this.orcPlay} id="jatozrobie">
-            Ja to zrobię.
+            <span>[ </span> Ja to zrobię.<span> [</span>
           </button>
           <button onClick={this.orcPlay} id="pracapraca">
-            Praca, praca.
+            <span>[ </span> Praca, praca.<span> [</span>
           </button>
           <button onClick={this.orcPlay} id="spokoj">
-            Dać mi spokój!
+            <span>[ </span> Dać mi spokój!<span> [</span>
           </button>
           <button onClick={this.orcPlay} id="tak">
-            Tak!
+            <span>[ </span> Tak!<span> [</span>
           </button>
           <button onClick={this.orcPlay} id="zabawa">
-            Nie czas na zabawę.
+            <span>[ </span> Nie czas na zabawę.<span> [</span>
           </button>
           <button onClick={this.orcPlay} id="sprobuje">
-            Spróbuję!
+            <span>[ </span> Spróbuję!<span> [</span>
           </button>
           <button onClick={this.orcPlay} id="zajety">
-            Ja zajęty.
+            <span>[ </span> Ja zajęty.<span> [</span>
           </button>
         </div>
       </div>
