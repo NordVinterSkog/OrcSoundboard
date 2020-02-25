@@ -132,9 +132,6 @@ class App extends Component {
           <button onClick={this.orcPlay} id="jatozrobie">
             <span>[ </span> Ja to zrobię.<span> [</span>
           </button>
-          <button onClick={this.orcPlay} id="pracapraca">
-            <span>[ </span> Praca, praca.<span> [</span>
-          </button>
           <button onClick={this.orcPlay} id="spokoj">
             <span>[ </span> Dać mi spokój!<span> [</span>
           </button>
@@ -149,6 +146,9 @@ class App extends Component {
           </button>
           <button onClick={this.orcPlay} id="zajety">
             <span>[ </span> Ja zajęty.<span> [</span>
+          </button>
+          <button onClick={this.orcPlay} id="pracapraca">
+            <span>[ </span> Praca, praca.<span> [</span>
           </button>
         </div>
       </div>
