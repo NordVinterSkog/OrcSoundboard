@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/OrcSoundboard/static/css/main.ace16fcb.chunk.css",
+    "main.js": "/OrcSoundboard/static/js/main.bb8431c4.chunk.js",
+    "main.js.map": "/OrcSoundboard/static/js/main.bb8431c4.chunk.js.map",
+    "runtime-main.js": "/OrcSoundboard/static/js/runtime-main.37417621.js",
+    "runtime-main.js.map": "/OrcSoundboard/static/js/runtime-main.37417621.js.map",
+    "static/js/2.bbb67a34.chunk.js": "/OrcSoundboard/static/js/2.bbb67a34.chunk.js",
+    "static/js/2.bbb67a34.chunk.js.map": "/OrcSoundboard/static/js/2.bbb67a34.chunk.js.map",
+    "index.html": "/OrcSoundboard/index.html",
+    "precache-manifest.92265b3f551991075f92633d1b6e6152.js": "/OrcSoundboard/precache-manifest.92265b3f551991075f92633d1b6e6152.js",
+    "service-worker.js": "/OrcSoundboard/service-worker.js",
+    "static/css/main.ace16fcb.chunk.css.map": "/OrcSoundboard/static/css/main.ace16fcb.chunk.css.map",
+    "static/js/2.bbb67a34.chunk.js.LICENSE.txt": "/OrcSoundboard/static/js/2.bbb67a34.chunk.js.LICENSE.txt",
+    "static/media/background.jpg": "/OrcSoundboard/static/media/background.7ee81bc6.jpg",
+    "static/media/bracich.mp3": "/OrcSoundboard/static/media/bracich.53c1e364.mp3",
+    "static/media/chetnie.mp3": "/OrcSoundboard/static/media/chetnie.69f5660a.mp3",
+    "static/media/co.mp3": "/OrcSoundboard/static/media/co.bebe39b7.mp3",
+    "static/media/costrzazrobic.mp3": "/OrcSoundboard/static/media/costrzazrobic.3fdccc91.mp3",
+    "static/media/czegotychciec.mp3": "/OrcSoundboard/static/media/czegotychciec.0af80cf6.mp3",
+    "static/media/czemunie.mp3": "/OrcSoundboard/static/media/czemunie.39a4aa9f.mp3",
+    "static/media/dobra.mp3": "/OrcSoundboard/static/media/dobra.271e0ab3.mp3",
+    "static/media/dobradobra.mp3": "/OrcSoundboard/static/media/dobradobra.e4dfd566.mp3",
+    "static/media/gotow.mp3": "/OrcSoundboard/static/media/gotow.64da2eaa.mp3",
+    "static/media/App.css": "/OrcSoundboard/static/media/lifecraft.e9b091ab.woff",
+    "static/media/janiebyctakiork.mp3": "/OrcSoundboard/static/media/janiebyctakiork.fb21618e.mp3",
+    "static/media/jatozrobie.mp3": "/OrcSoundboard/static/media/jatozrobie.3402d0f4.mp3",
+    "static/media/mozdzierze.mp3": "/OrcSoundboard/static/media/mozdzierze.dd1359ae.mp3",
+    "static/media/pracapraca.mp3": "/OrcSoundboard/static/media/pracapraca.15e42cf9.mp3",
+    "static/media/spokoj.mp3": "/OrcSoundboard/static/media/spokoj.7d583c9f.mp3",
+    "static/media/sprobuje.mp3": "/OrcSoundboard/static/media/sprobuje.24b43fe2.mp3",
+    "static/media/tak.mp3": "/OrcSoundboard/static/media/tak.77c52969.mp3",
+    "static/media/zabawa.mp3": "/OrcSoundboard/static/media/zabawa.edb8f4be.mp3",
+    "static/media/zajety.mp3": "/OrcSoundboard/static/media/zajety.7c50848c.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.37417621.js",
+    "static/js/2.bbb67a34.chunk.js",
+    "static/css/main.ace16fcb.chunk.css",
+    "static/js/main.bb8431c4.chunk.js"
+  ]
+}
